@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "Lucas Lehmann",
+            "title": "Basketball bei Olympia 2024: Wo läuft Deutschland – Japan live im TV & Stream? | Sport",
+            "description": "Am Samstag geht's für unsere Basketballer zum Olympia-Auftakt gegen Japan. Wo läuft es live im TV?",
+            "url": "https://www.bild.de/sport/olympia/olympia-2024-basketball-wo-laeuft-deutschland-japan-live-im-tv-66a3434e55148d554a02b26a",
+            "urlToImage": "https://images.bild.de/66a3434e55148d554a02b26a/97e18fa463e41590f8c18d7e01a752a1,9dcd4e15?w=1280",
+            "publishedAt": "2024-07-27T05:00:40Z",
+            "content": "Los geht's!\r\nAm Samstag starten unsere Basketballer in die Olympischen Spiele. Zum Auftakt geht es in Lille gegen Japan. Los geht's um 13.30 Uhr in der Decathlon Arena Stade Pierre-Mauroy. So sehen S… [+1891 chars]"
+        },
+        {
+            "source": {
+                "id": "focus",
+                "name": "Focus"
+            },
+            "author": "FOCUS online",
+            "title": "Olympia-Update: Morgen geht's in zwei Disziplinen um deutsches Gold",
+            "description": "Die Olympischen Spiele sind nach der Zeremonie am Freitagabend offiziell eröffnet. Am Samstag greifen deutsche Athleten gleich in zwei Wettbewerben nach einer Medaille. Außerdem haben die Basketball-Weltmeister und die deutschen Handball-Herren ihren ersten A…",
+            "url": "https://www.focus.de/sport/olympische-sommerspiele/olympia-update-am-abend-spiele-sind-eroeffnet-morgen-gehts-in-zwei-disziplinen-um-deutsches-gold_id_260172772.html",
+            "urlToImage": "https://p6.focus.de/img/fotos/id_260173408/team-deutschland-steht-auf-dem-boot-bei-der-eroeffnungsfeier..jpg?im=Crop%3D%280%2C564%2C3476%2C1736%29%3BResize%3D%281200%2C627%29&impolicy=perceptual&quality=mediumHigh&hash=d490044061ac7c53905fc71e64fe7c335f9e64703cc55e1da56f18bfa9803001",
+            "publishedAt": "2024-07-26T19:36:01Z",
+            "content": "<ul><li>\r\nKommentare</li><li>\r\nE-Mail</li><li>\r\nTeilen</li><li>\r\nMehr</li><li>\r\nTwitter</li><li>\r\nDrucken</li><li>\r\nFeedback</li><li>\r\nFehler meldenSie haben einen Fehler gefunden?\r\nBitte markieren S… [+4544 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Olympics schedule July 27: Australians compete in swimming, diving and basketball",
+            "description": "Australians will be competing in events including the basketball, diving, swimming, hockey, road cycling and canoe slalom on Day One of the Games.",
+            "url": "https://www.abc.net.au/news/2024-07-26/olympics-event-schedule-australian-athletes-july-27/104135418",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/7469297ee80801a06c25bdac5bc9a4dd?impolicy=wcms_watermark_news&cropH=1977&cropW=3515&xPos=0&yPos=366&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-07-26T02:21:32Z",
+            "content": "Olympics essentials\r\nThe 2024 Summer Olympics are underway in Paris, France.\r\nAustralians will be competing in events including basketball, diving, swimming, hockey, road cycling and canoe slalom on … [+5991 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "Iowa standout Caitlin Clark declares for 2024 WNBA Draft",
+            "description": "Iowa star Caitlin Clark, who passed Lynette Woodard for the major-college women's basketball scoring mark Wednesday night, announced that she has declared for the 2024 WNBA Draft.",
+            "url": "http://www.foxsports.com/stories/womens-college-basketball/iowa-standout-caitlin-clark-declares-for-2024-wnba-draft",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/CaitlinDraft.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T21:49:01Z",
+            "content": "Iowa star Caitlin Clark, the all-time leading scorer in major-women's college basketball history, has declared for the 2024 WNBA Draft, she announced in a social media post Thursday.\r\nClark is a seni… [+671 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta, Michael Cohen",
+            "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+            "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+            "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T20:59:30Z",
+            "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+        }
+    ]
+}
