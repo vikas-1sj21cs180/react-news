@@ -45,7 +45,7 @@ function News(props) {
 
     return (
         <div className='container'>
-            <h1 className='text-center' style={{ margin: "25px" }}>NewsTalk - Top Headlines on {props.category}</h1>
+            <h1 className='text-center' style={{ margin: "25px" }}>NewsTalk - Top HeadLines - {props.category}</h1>
             {loading && <Spinner />}
             <InfiniteScroll
                 dataLength={articles.length}

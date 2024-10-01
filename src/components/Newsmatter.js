@@ -14,7 +14,7 @@ function Newsmatter(props) {
              {/* <span className="badge bg-danger">{props.source}</span> */}
              <span class="badge rounded-pill bg-danger" style={{left:'100%',zIndex:1}}>{props.source}</span>
                </div>
-                <img src={!props.urlToImage ? "https://nypost.com/wp-content/uploads/sites/2/2024/08/2024-san-rafael-california-according-86563389.jpg?quality=75&strip=all&w=1024" : props.urlToImage} className="card-img-top" alt="..." />
+                <img src={!props.urlToImage ? "https://thumbs.dreamstime.com/b/default-image-icon-vector-missing-picture-page-website-design-mobile-app-no-photo-available-236105299.jpg" : props.urlToImage} className="card-img-top" alt="..." />
                 <div className="card-body">
                     <h5 className="card-title">{props.title}</h5>
                     <p className="card-text">{props.description}</p>
